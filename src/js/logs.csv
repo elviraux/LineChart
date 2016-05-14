@@ -1,0 +1,14 @@
+May 13 14:38:29 EDZHURAE-M-V00B Google Chrome Helper[67832]: CGAffineTransformInvert: singular matrix.
+May 13 14:38:35 EDZHURAE-M-V00B com.apple.xpc.launchd[1] (td-agent): Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+May 13 14:38:59 --- last message repeated 2 times ---
+May 13 14:38:59 EDZHURAE-M-V00B kernel[0]: Google Chrome He[68533] triggered unnest of range 0x7fff88800000->0x7fff88a00000 of DYLD shared region in VM map 0x917e50caf52ca87f. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+May 13 14:39:00 EDZHURAE-M-V00B kernel[0]: Google Chrome He[68534] triggered unnest of range 0x7fff88800000->0x7fff88a00000 of DYLD shared region in VM map 0x917e50cacfce4c5f. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+May 13 14:39:00 EDZHURAE-M-V00B kernel[0]: Google Chrome He[68535] triggered unnest of range 0x7fff88800000->0x7fff88a00000 of DYLD shared region in VM map 0x917e50caccef860f. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+May 13 14:39:01 EDZHURAE-M-V00B Google Chrome Helper[68535]: CGAffineTransformInvert: singular matrix.
+May 13 14:39:06 EDZHURAE-M-V00B com.apple.xpc.launchd[1] (td-agent): Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+May 13 14:39:10 EDZHURAE-M-V00B kernel[0]: Google Chrome He[68568] triggered unnest of range 0x7fff88800000->0x7fff88a00000 of DYLD shared region in VM map 0x917e50cacf072137. While not abnormal for debuggers, this increases system memory footprint until the target exits.
+May 13 14:39:17 EDZHURAE-M-V00B com.apple.xpc.launchd[1] (td-agent): Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+May 13 14:39:25 EDZHURAE-M-V00B com.apple.CDScheduler[42]: *** LOG MESSAGE QUOTA EXCEEDED - SOME MESSAGES FROM THIS PROCESS HAVE BEEN DISCARDED ***
+May 13 14:39:27 EDZHURAE-M-V00B com.apple.xpc.launchd[1] (td-agent): Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+May 13 14:39:59 --- last message repeated 2 times ---
+May 13 14:39:59 EDZHURAE-M-V00B com.apple.xpc.launchd[1] (td-agent): Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
