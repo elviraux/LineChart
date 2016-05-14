@@ -1,3 +1,3 @@
 # Line chart
 Simple line chart allows to select more than one point
-![alt tag]
+![line chart](https://github.com/elviraux/LineChart/blob/master/linechart.png)
