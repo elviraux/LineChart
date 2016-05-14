@@ -1,2 +1,2 @@
-# zuiviz
-A separate repo to build the zeus visualisation library in parallel. Built on D3.
+# Line chart
+Simple line chart allows to select more than one point
